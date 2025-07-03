@@ -1,0 +1,10 @@
+body{
+    color: rgb(181, 246, 181); /*cor da fonte - letra */
+    background-color: rgb(1, 30, 12); /* cor do fundo */
+    font-family: Arial, sans-serif;
+    margin: 0px;
+}
+header{
+    border-bottom: solid 2px rgb(7, 197, 71);
+    padding: 20px;
+}
